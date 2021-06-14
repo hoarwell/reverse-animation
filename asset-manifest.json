@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reverse-animation/static/css/main.4f517b96.chunk.css",
+    "main.css": "/reverse-animation/static/css/main.b95ab0db.chunk.css",
     "main.js": "/reverse-animation/static/js/main.b2dae2e1.chunk.js",
     "main.js.map": "/reverse-animation/static/js/main.b2dae2e1.chunk.js.map",
     "runtime-main.js": "/reverse-animation/static/js/runtime-main.07e7ae2b.js",
@@ -8,13 +8,13 @@
     "static/js/2.8b643cc9.chunk.js": "/reverse-animation/static/js/2.8b643cc9.chunk.js",
     "static/js/2.8b643cc9.chunk.js.map": "/reverse-animation/static/js/2.8b643cc9.chunk.js.map",
     "index.html": "/reverse-animation/index.html",
-    "static/css/main.4f517b96.chunk.css.map": "/reverse-animation/static/css/main.4f517b96.chunk.css.map",
+    "static/css/main.b95ab0db.chunk.css.map": "/reverse-animation/static/css/main.b95ab0db.chunk.css.map",
     "static/js/2.8b643cc9.chunk.js.LICENSE.txt": "/reverse-animation/static/js/2.8b643cc9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.07e7ae2b.js",
     "static/js/2.8b643cc9.chunk.js",
-    "static/css/main.4f517b96.chunk.css",
+    "static/css/main.b95ab0db.chunk.css",
     "static/js/main.b2dae2e1.chunk.js"
   ]
 }
