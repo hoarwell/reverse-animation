@@ -14,7 +14,7 @@
 .row {
   display: flex;
   width: 100%;
-  height: 18%;
+  height: 20%;
   justify-content: center;
   margin: 2px;
 }
@@ -24,8 +24,8 @@
   border: 1px solid black;
   background-color: white;
   border-radius: 50%;
-  width: 15%;
-  height: 100%;
+  width: 160px;
+  height: 160px;
   transition-duration: 1.5s;
   margin: 2px;
 }
